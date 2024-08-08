@@ -1,7 +1,7 @@
-# Data balancing
+# Data balancing using Cluster-based Undersampling 
 
-This step involves execution of the following stage:
-1. Generate balanced ETFD dataset
+This step involves the execution of the following stage:
+1. Generate a balanced ETFD dataset
 
 ---
 
