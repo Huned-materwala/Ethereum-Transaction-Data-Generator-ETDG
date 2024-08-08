@@ -39,3 +39,5 @@ This step involves the execution of the following stages:
     - Reads the ‘ETFD_data_raw.txt’ file from the ‘Step4_Raw dataset (Metadata)’ folder. In addition, it reads the ‘ETFD_temporal_features.txt’ and ‘ETFD_nodal_features.txt’ files
     - For each transaction data, it combines the original features, temporal features, and nodal features
     - Saves the final ETFD dataset with extracted features as ‘ETFD_extracted_features.txt’ file
+
+**NOTE: The files (that are over 100MB) related to this step can be downloaded from the following link: https://drive.google.com/drive/folders/16dImzEAupYAmsu2IN2pExQ5fbEaHN4XM?usp=drive_link**
