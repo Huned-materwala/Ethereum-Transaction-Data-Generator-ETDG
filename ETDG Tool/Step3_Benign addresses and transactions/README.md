@@ -18,3 +18,5 @@ This step involves the execution of the following stages:
     - Reads the ‘benign_transactions.txt’ file
     - For each transaction, it adds a class label ‘No Fraud’
     - Saves the labeled dataset to ‘benign_transactions_preprocessed_labeled.txt’ file
+
+**NOTE: The files (that are over 100MB) related to this step can be downloaded from the following link: https://drive.google.com/drive/folders/13QVj5LOAc8tx5ho_o4Z_2paEBNtqKUMk?usp=drive_link**
