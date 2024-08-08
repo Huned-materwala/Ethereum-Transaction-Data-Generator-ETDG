@@ -33,3 +33,6 @@ This step involves the execution of the following stages:
     - Reads the Ethereum transactions data saved in the JSON format
     - Saves the transaction data in the text format
 
+
+
+**NOTE: The folders and files (that are over 100MB) related to this step can be downloaded from the following link: https://drive.google.com/drive/folders/1FSZfxqXQlHGkVdxQVpi43DpfxTF1Mi0M?usp=drive_link**
